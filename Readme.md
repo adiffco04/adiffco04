@@ -36,7 +36,7 @@
 
 - 💬 Ask me about **react, react-native, nodejs, mongoDB**
 
-- 📫 Feel free to reach me out **g6.kartikey@gmail.com**
+- 📫 Feel free to reach me out **adiffco04@gmail.com**
 
 
 <!--Intro end-->
